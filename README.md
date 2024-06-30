@@ -16,7 +16,7 @@ npx hardhat run scripts/deploy.ts --network volta
 ```
 
 
-Loom Video link for verification: 
+Loom Video link for verification: https://www.loom.com/share/311c3107eb304920903c4c8a1e80fd64?sid=f2433aa4-8bf9-4992-8de0-941d65622585
 
 
 
